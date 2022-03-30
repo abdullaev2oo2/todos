@@ -5,7 +5,7 @@ This application allows users to track the to dos
 #### Instructions
 1. Download the source code
 ``` bash
-git clone [url]
+https://github.com/abdullaev2oo2/todos.git
 ```
 
 or just download the *.zip file
@@ -27,4 +27,4 @@ node server
 - pug
 
 #### Link to github repo
-[url]
+https://github.com/abdullaev2oo2/todos.git
