@@ -50,3 +50,21 @@
 .todo:hover {
     background-color: #eee;
 }
+
+.error {
+    text-align: center;
+    color: red;
+    font-size: 1.4rem;
+    border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 15rem;
+}
+
+.success {
+    text-align: center;
+    color: green;
+    font-size: 1.4rem;
+    border: 1px solid green;
+    padding: 10px;
+    margin-bottom: 15rem;
+}
