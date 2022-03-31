@@ -28,3 +28,6 @@ node server
 
 #### Link to github repo
 https://github.com/abdullaev2oo2/todos.git
+
+### LInk to Application on Glitch
+https://dazzling-gravel-land.glitch.me
