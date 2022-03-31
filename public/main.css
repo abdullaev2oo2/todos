@@ -45,6 +45,9 @@
 .todo {
     padding: 10px;
     font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .todo:hover {
@@ -67,4 +70,21 @@
     border: 1px solid green;
     padding: 10px;
     margin-bottom: 15rem;
+}
+
+.delete {
+    text-decoration: none;
+    font-size: .9rem;
+    padding: 5px 10px;
+    background: tomato;
+    color: #fff;
+}
+
+.done {
+    color: black;
+    text-decoration: line-through;
+}
+
+.undone {
+    text-decoration: none;
 }
